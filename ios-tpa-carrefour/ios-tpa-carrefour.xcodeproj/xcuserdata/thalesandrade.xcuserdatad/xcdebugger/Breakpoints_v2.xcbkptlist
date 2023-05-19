@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A7028BA-E334-43A6-99ED-E2467402F787"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "429E976A-0495-44F1-92EB-76C3200241B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-tpa-carrefour/Demo/InfoUser/ViewModel/InfoUserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "429E976A-0495-44F1-92EB-76C3200241B9 - 55ce62636256d6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ios_tpa_carrefour.InfoUserModel, Swift.Error&gt;) -&gt; () in ios_tpa_carrefour.InfoUserViewModel.fetchData() -&gt; ()"
+                  moduleName = "ios-tpa-carrefour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesandrade/projetos/ios/ios-tpa-carrefour/ios-tpa-carrefour/ios-tpa-carrefour/Demo/InfoUser/ViewModel/InfoUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "429E976A-0495-44F1-92EB-76C3200241B9 - 55ce62636256d6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ios_tpa_carrefour.InfoUserModel, Swift.Error&gt;) -&gt; () in ios_tpa_carrefour.InfoUserViewModel.fetchData() -&gt; ()"
+                  moduleName = "ios-tpa-carrefour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesandrade/projetos/ios/ios-tpa-carrefour/ios-tpa-carrefour/ios-tpa-carrefour/Demo/InfoUser/ViewModel/InfoUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "429E976A-0495-44F1-92EB-76C3200241B9 - 55ce62636256d6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ios_tpa_carrefour.InfoUserModel, Swift.Error&gt;) -&gt; () in ios_tpa_carrefour.InfoUserViewModel.fetchData() -&gt; ()"
+                  moduleName = "ios-tpa-carrefour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesandrade/projetos/ios/ios-tpa-carrefour/ios-tpa-carrefour/ios-tpa-carrefour/Demo/InfoUser/ViewModel/InfoUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "916">
+               </Location>
+               <Location
+                  uuid = "429E976A-0495-44F1-92EB-76C3200241B9 - 55ce62636256d6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ios_tpa_carrefour.InfoUserModel, Swift.Error&gt;) -&gt; () in ios_tpa_carrefour.InfoUserViewModel.fetchData() -&gt; ()"
+                  moduleName = "ios-tpa-carrefour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesandrade/projetos/ios/ios-tpa-carrefour/ios-tpa-carrefour/ios-tpa-carrefour/Demo/InfoUser/ViewModel/InfoUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "992">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
